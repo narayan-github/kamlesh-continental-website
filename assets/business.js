@@ -74,11 +74,11 @@
     const DEST = [
       { id: 'bus', name: 'New Bus Stand', lbl: 'Bus Stand', k: 'tr', km: 'Nearby', t: '5 min', ok: true, mode: 'Auto', brg: 170, r: 38, q: 'Angul New Bus Stand, Odisha', note: 'The hotel is near the new bus terminal.' },
       { id: 'rail', name: 'Angul Railway Station', lbl: 'Railway Stn', k: 'tr', km: '~4 km', t: '15 min', ok: true, mode: 'Taxi', brg: 255, r: 80, q: 'Angul Railway Station, Odisha', note: 'Ask the front desk to call you a taxi.' },
-      { id: 'nalco', name: 'NALCO Smelter Plant', lbl: 'NALCO', k: 'ind', km: '~10 km', t: '~20 min', mode: 'Taxi / company cab', brg: 95, r: 112, q: 'NALCO Smelter Plant, Angul, Odisha', note: 'The reason our founder built this hotel.' },
-      { id: 'jspl', name: 'JSPL Angul', lbl: 'JSPL', k: 'ind', km: '~25 km', t: '~40 min', mode: 'Taxi / company cab', brg: 315, r: 142, q: 'Jindal Steel and Power, Angul, Odisha', note: 'An early breakfast at the Coffee Shop gets you on the road in time.' },
+      { id: 'nalco', name: 'NALCO Smelter Plant', lbl: 'NALCO', k: 'ind', km: '~8 km', t: '~15 min', mode: 'Taxi / company cab', brg: 95, r: 112, q: 'NALCO Smelter Plant, Angul, Odisha', note: 'The reason our founder built this hotel.' },
+      { id: 'jspl', name: 'JSPL Angul', lbl: 'JSPL', k: 'ind', km: '~15 km', t: '~25 min', mode: 'Taxi / company cab', brg: 315, r: 142, q: 'Jindal Steel and Power, Angul, Odisha', note: 'An early breakfast at the Coffee Shop gets you on the road in time.' },
       { id: 'ntpc', name: 'NTPC Talcher Thermal', lbl: 'NTPC', k: 'ind', km: '~20 km', t: '~35 min', mode: 'Taxi / company cab', brg: 42, r: 138, q: 'NTPC Talcher Thermal Power Station, Odisha', note: 'Close to Bhimkhand, the rock-cut sleeping Vishnu.' },
-      { id: 'mcl', name: 'MCL Talcher Coalfields', lbl: 'MCL', k: 'ind', km: '~25 km', t: '~40 min', mode: 'Taxi / company cab', brg: 18, r: 164, q: 'Mahanadi Coalfields Talcher, Odisha', note: 'Talcher is the coal and power town next door.' },
-      { id: 'bbi', name: 'Bhubaneswar Airport (BBI)', lbl: 'BBI Airport', k: 'air', km: '~150 km', t: '~3.5 h', mode: 'Pre-booked car', brg: 140, r: 180, q: 'Biju Patnaik International Airport, Bhubaneswar', note: 'Ask reservations to arrange a car.' },
+      { id: 'mcl', name: 'MCL Talcher Coalfields', lbl: 'MCL', k: 'ind', km: '~22 km', t: '~30 min', mode: 'Taxi / company cab', brg: 18, r: 164, q: 'Mahanadi Coalfields Talcher, Odisha', note: 'Talcher is the coal and power town next door.' },
+      { id: 'bbi', name: 'Bhubaneswar Airport (BBI)', lbl: 'BBI Airport', k: 'air', km: '~130 km', t: '~3 h', mode: 'Pre-booked car', brg: 140, r: 180, q: 'Biju Patnaik International Airport, Bhubaneswar', note: 'Ask reservations to arrange a car.' },
     ];
     const svg = $('#cmap'), list = $('#dests');
     if (svg && list) {
