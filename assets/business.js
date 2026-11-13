@@ -72,7 +72,7 @@
     // ok:true = confirmed by the hotel's site or its Google listing; the rest are approximate
     const MAPQ = 'https://www.google.com/maps/dir/?api=1&origin=20.8349281,85.103498&destination=';
     const DEST = [
-      { id: 'bus', name: 'New Bus Stand', lbl: 'Bus Stand', k: 'tr', km: 'Nearby', t: '5 min', ok: true, mode: 'Auto', brg: 170, r: 38, q: 'Angul New Bus Stand, Odisha', note: 'The hotel is near the new bus terminal.' },
+      { id: 'bus', name: 'New Bus Stand', lbl: 'Bus Stand', k: 'tr', km: '~1 km', t: '5 min', ok: true, mode: 'Auto', brg: 170, r: 38, q: 'Angul New Bus Stand, Odisha', note: 'The hotel is near the new bus terminal.' },
       { id: 'rail', name: 'Angul Railway Station', lbl: 'Railway Stn', k: 'tr', km: '~4 km', t: '15 min', ok: true, mode: 'Taxi', brg: 255, r: 80, q: 'Angul Railway Station, Odisha', note: 'Ask the front desk to call you a taxi.' },
       { id: 'nalco', name: 'NALCO Smelter Plant', lbl: 'NALCO', k: 'ind', km: '~8 km', t: '~15 min', mode: 'Taxi / company cab', brg: 95, r: 112, q: 'NALCO Smelter Plant, Angul, Odisha', note: 'The reason our founder built this hotel.' },
       { id: 'jspl', name: 'JSPL Angul', lbl: 'JSPL', k: 'ind', km: '~15 km', t: '~25 min', mode: 'Taxi / company cab', brg: 315, r: 142, q: 'Jindal Steel and Power, Angul, Odisha', note: 'An early breakfast at the Coffee Shop gets you on the road in time.' },
