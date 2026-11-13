@@ -1,0 +1,25 @@
+KAMLESH CONTINENTAL - NEW WEBSITE (PREVIEW)
+
+How to view it
+1. Unzip this folder on a computer (Windows or Mac).
+2. Open the file "index.html" by double-clicking it. It opens in your web browser.
+3. Keep the computer connected to the internet so the fonts and the map load.
+
+The site has three pages: Home (index.html), Weddings and Business.
+Use the menu at the top to move between them.
+
+Languages
+The globe at the top right switches between English, Hindi and Odia.
+The Hindi and Odia text was translated by software. Please have someone who
+reads each language check it before the site goes public.
+
+What to check
+- Small tags that say "to confirm", "proposed" or "indicative" mark details
+  we still need from the hotel. The room prices shown are placeholders.
+- A link at the very bottom of each page hides these tags so you can see
+  the finished look.
+- The WhatsApp buttons open a ready-written message to the hotel's own
+  numbers. Nothing is sent until you press send in WhatsApp. These messages
+  are always in English so the hotel staff receive them in one language.
+
+This is a preview copy. It is not on the internet yet.
